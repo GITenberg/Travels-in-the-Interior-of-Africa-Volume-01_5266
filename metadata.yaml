@@ -1,5 +1,5 @@
 _repo: Travels-in-the-Interior-of-Africa-Volume-01_5266
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Niger River'
 - !lcc 'DT'
 - !lcsh 'Africa -- Discovery and exploration'
+- GITenberg
 title: Travels in the Interior of Africa — Volume 01
 url: http://www.gutenberg.org/ebooks/5266
